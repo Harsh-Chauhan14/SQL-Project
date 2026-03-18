@@ -12,7 +12,7 @@ https://github.com/Harsh-Chauhan14/SQL-Project/blob/main/BLINKIT%20PROJECT%20SQL
 - Max, Min, Average Item Weight
 - Max, Min Item MRP
 
-#ilter Queries
+# ilter Queries
 - Count of Low Fat vs Regular items
 - Max MRP for Low Fat items
 - Items where MRP is between 50–100
