@@ -5,27 +5,45 @@
 
 # Project Files
 https://github.com/Harsh-Chauhan14/SQL-Project/blob/main/BLINKIT%20PROJECT%20SQL.sql
+## 🔑 Key Insights
 
-# Basic Queries
-- Show all Item Identifiers
-- Count of total items
-- Max, Min, Average Item Weight
-- Max, Min Item MRP
+ # Dataset-
+  contains grocery product data including item 
+  details, outlet info, and sales figures
 
-# ilter Queries
-- Count of Low Fat vs Regular items
-- Max MRP for Low Fat items
-- Items where MRP is between 50–100
+  
+ # Fat Content Analysis
+ Dataset has both Low Fat and 
+  Regular items; analyzed count and MRP for each category
 
-# Distinct & Sorting
-- Unique Item Fat Content values
-- Unique Item Types
-- Data sorted by MRP (DESC), Sales (ASC), Item Type (ASC)
+# Item MRP Range
+  Queried maximum, minimum and average 
+  MRP across all items and filtered by fat content
 
-# Group By & Aggregations
-- Average MRP by Outlet Type
-- Max Item Weight by Item Type & Establishment Year
-- Min Item Weight by Outlet Type
-- Avg Item Weight by Outlet Location Type
-- Max & Min Outlet Sales by Item Type
+ # Item Weight
+  Analyzed max, min and average item weight 
+  across different outlet types and establishment years
+
+ # Outlet Analysis 
+  Identified unique outlet sizes, 
+  location types (Tier 1, 2, 3) and outlet types 
+  (Grocery Store vs Supermarket)
+
+# Sales Performance 
+  Analyzed total, max, min and 
+  average Item_Outlet_Sales grouped by:
+  - Item Type
+  - Outlet Type
+  - Outlet Size
+  - Fat Content
+  - Outlet Location Type (Tier 1 focus)
+
+  # Category Insights
+  Filtered specific categories 
+  like Dairy & Meat items separately
+
+  # Item Visibility 
+  Analyzed max and min visibility 
+  scores by Item Type
+
 
